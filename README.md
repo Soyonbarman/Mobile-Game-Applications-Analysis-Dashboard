@@ -6,9 +6,9 @@ This project presents an interactive Power BI dashboard that provides a comprehe
 
 ## 🖼️ Dashboard Overview
 
-![Mobile Game Applications Analysis]
+Mobile Game Applications Analysis
+
 <img width="1466" height="819" alt="Screenshot_13" src="https://github.com/user-attachments/assets/4da42dca-fda3-48ec-9d27-870924d8a866" />
-)
 
 ---
 
